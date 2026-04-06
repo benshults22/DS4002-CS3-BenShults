@@ -10,6 +10,10 @@ The two attached PDFs include both the Prompt and Deliverable for the case study
 
 The necessary data is located in the "DATA" folder, and contains both a raw and cleaned csv
 
+## Scripts
+
+The necessary Python Script is located in the "SCRIPTS" folder
+
 ## Reference Materials
 
-The "Reference Materials" folder contains helpful resources related to the context of the social issue, tips for time-series regression analysis and developing a predictive model, as well as the complete World Happiness Report data to get a better idea of the data, contextually.
+The "REFERENCE" folder contains helpful resources related to the context of the broader topic as well as more technical components.
