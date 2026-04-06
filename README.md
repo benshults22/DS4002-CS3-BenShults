@@ -8,7 +8,7 @@ The two attached PDFs include both the Prompt and Deliverable for the case study
 
 ## Data
 
-The necessary data is located in the "DATA" folder
+The necessary data is located in the "DATA" folder, and contains both a raw and cleaned csv
 
 ## Reference Materials
 
